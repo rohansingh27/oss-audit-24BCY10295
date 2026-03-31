@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Nitin Yadav
+# Author: rohan singh
 # Choice: Firefox
 
 # List of important system directories to audit
