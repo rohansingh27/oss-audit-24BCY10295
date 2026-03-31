@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Nitin Yadav
+# Author: rohan singh
 # Project Choice: Firefox
 
 STUDENT_NAME="Nitin Yadav"
