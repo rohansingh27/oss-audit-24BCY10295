@@ -3,7 +3,7 @@
 # Author: rohan singh
 # Project Choice: Firefox
 
-STUDENT_NAME="Nitin Yadav"
+STUDENT_NAME="Rohan singh"
 SOFTWARE_CHOICE="Firefox"
 DISTRO=$(cat /etc/os-release | grep "PRETTY_NAME" | cut -d'=' -f2 | tr -d '"')
 
